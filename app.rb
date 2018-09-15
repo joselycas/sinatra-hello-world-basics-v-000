@@ -4,3 +4,9 @@ class App < Sinatra::Base
 
 
 end
+
+class Application < Sinatra::Base
+
+ 
+  end
+
